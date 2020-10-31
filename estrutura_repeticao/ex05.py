@@ -1,4 +1,3 @@
-
 while True:
     pop_a = int(input('Entre com a população do país A: '))
     if pop_a < 2:

@@ -1,4 +1,4 @@
-termo = int(input('Digite a qunatidade de termos: '))
+termo = int(input('Digite a quantidade de termos: '))
 
 atual = 1
 anterior = 0
